@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 04F2-45ED
+
+ Pasta de C:\Users\Sub\Desktop\MyProject
+
+26/08/2018  18:35    <DIR>          .
+26/08/2018  18:35    <DIR>          ..
+26/08/2018  18:35                 0 test1.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   688.810.536.960 bytes dispon°veis
